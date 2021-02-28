@@ -1,6 +1,6 @@
 # Tic-Tac-Toe
 
-Tic Tac Toe created with <b>Pygame</b>
+Tic Tac Toe made with <b>Pygame</b>
 
 <br>
 
